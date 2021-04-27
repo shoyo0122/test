@@ -25,7 +25,7 @@ if ($member['name'] === $name) {
     $stmt->bindValue(':password', $pass);
     $stmt->execute();
     $msg = '会員登録が完了しました。';
-    $link = '<a href="login.php"></a>';
+    $link = '<a href="login_form.php">ログイン</a>';
 }
 ?>
 
