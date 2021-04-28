@@ -14,15 +14,9 @@
         <h1>
            <a href="/">カロリー計算</a>
         </h1>
-        <!-- 
-        <nav class="pc-nav">
-           <ul>
-              <li><a href="login_form.php">ログイン</a></li>
-           </ul>
-        </nav>
-        -->
      </header>
-     <div class="main-visual">
+     <div class="form-wrapper">
+      
      </div>
 </body>
 </html>
